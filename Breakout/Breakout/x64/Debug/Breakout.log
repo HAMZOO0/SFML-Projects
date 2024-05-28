@@ -1,0 +1,28 @@
+﻿  Breakout.cpp
+Z:\My Programming\SFML\Breakout\Breakout\Breakout\Breakout.cpp(21,22): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+Z:\My Programming\SFML\Breakout\Breakout\Breakout\Breakout.cpp(83,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Z:\My Programming\SFML\Breakout\Breakout\Breakout\Breakout.cpp(210,53): warning C4244: '+=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+Z:\My Programming\SFML\Breakout\Breakout\Breakout\Breakout.cpp(212,56): warning C4244: '+=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+Z:\My Programming\SFML\Breakout\Breakout\Breakout\Breakout.cpp(253,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+Z:\My Programming\SFML\Breakout\Breakout\Breakout\Breakout.cpp(253,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Breakout.vcxproj -> Z:\My Programming\SFML\Breakout\Breakout\x64\Debug\Breakout.exe

@@ -1,0 +1,1 @@
+Z:\My Programming\SFML\Breakout\Breakout\Breakout\x64\Debug\Breakout.vcxproj.CopyComplete
